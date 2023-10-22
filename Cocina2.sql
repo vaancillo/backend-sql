@@ -11,3 +11,18 @@
  * */
 
 create database cocina;
+
+create table empleado(
+	id_empleado SERIAL primary key,
+	nombre varchar(100) not null,
+	paterno varchar(100) not null,
+	materno varchar(100) not null,
+	edad int not null,
+	telefono varchar(15) not null,
+	email varchar(120) not null,
+	salario real not null,
+	antiguedad date not null,
+	RFC varchar(20) not null,
+	NSS varchar(20) not null,
+
+);
