@@ -9,3 +9,5 @@
  * pero los cocineros tienen varios meseros.
  * 
  * */
+
+create database cocina;
