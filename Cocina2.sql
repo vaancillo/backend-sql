@@ -1,3 +1,8 @@
+-- SQL File
+-- Author: vaancillo
+-- Description: Este archivo contiene consultas SQL para la base de datos.
+
+
 /*
  * Una cocina de elite quiere mejorar su sistema
  * de empleados, ya que actualmente su base de datos
